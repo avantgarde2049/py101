@@ -3,7 +3,7 @@
 import time
 #k=1
 #while (k<40):
- #   print("Laora")
+ #   print("Laura")
  #   time.sleep(3)
  #   k=k+1
 
@@ -11,7 +11,7 @@ import time
 #for loop
 a=time.time()
 for i in range(40):
-     print("baal")
+     print("Paulson")
 print("Execution time is",{time.time()-a})
 
 
